@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date:20.05.25
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -904,6 +904,19 @@ footer {
 
 
 ## OUTPUT:
+![Screenshot 2025-05-20 122830](https://github.com/user-attachments/assets/6e6553df-5b8f-420b-ba63-09ad16f47f22)
+
+![Screenshot 2025-05-20 122909](https://github.com/user-attachments/assets/6b46439b-4966-4271-96b0-8608e6881ac8)
+
+
+![Screenshot 2025-05-20 123125](https://github.com/user-attachments/assets/d9d2b031-e7b5-443f-b044-68db188ac5cf)
+
+
+![Screenshot 2025-05-20 123221](https://github.com/user-attachments/assets/a41ce176-6bbe-4db0-836b-e54b40ef7148)
+
+
+
+
 
 
 ## RESULT:
